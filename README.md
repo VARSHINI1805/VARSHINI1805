@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:A855F7,100:60A5FA&text=Varshini%20S&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:A855F7,100:60A5FA&text=VARSHINI%20S&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2500&pause=800&color=F472B6&center=true&vCenter=true&width=950&lines=Computer+Science+Engineering+Student+💻;Aspiring+Full+Stack+Developer+🚀;MERN+Stack+Developer+🌐;UI%2FUX+%26+Graphic+Designer+🎨;Python+%7C+AI+Project+Developer+⚡;Building+Creative+and+Interactive+Projects+✨"/>
 
@@ -20,7 +20,6 @@
 Name: Varshini S
 Education: B.E. Computer Science Engineering
 College: Kongu Engineering College
-Role: Full Stack Web Developer
 
 Specialization:
   - MERN Stack Development
